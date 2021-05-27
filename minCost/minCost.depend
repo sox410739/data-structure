@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577721008 source:d:\programfiles\data structure\mincost\main.cpp
+	<iostream>
+	<vector>
+
